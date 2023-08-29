@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add new @Retry() decorator (#7854)
