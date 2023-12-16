@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
