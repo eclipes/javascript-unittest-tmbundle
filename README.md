@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update H1 in Explorer API docs (#7813)
